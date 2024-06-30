@@ -1,11 +1,11 @@
 # makeToDo's -> ToDo List Application
 
 ## Description
-A simple React app to task writer.
+A simple React app for task writings.
 
 ## Instructions to Run Locally
 1. Clone the repository:
-    git clone https://github.com/ZaheerK-pro/pizza-order-calculator.git
+    git clone https://github.com/ZaheerK-pro/todo-application.git
 
 2. Navigate to the project directory:
     cd todo-application
