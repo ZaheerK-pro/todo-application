@@ -1,7 +1,7 @@
 # makeToDo's -> ToDo List Application
 
 ## Description
-A simple React app for task writings.
+A simple React app for task writing.
 
 ## Instructions to Run Locally
 1. Clone the repository:
@@ -18,7 +18,7 @@ A simple React app for task writings.
 5. Open your browser and go to `http://localhost:3000`.
 
 ## Hosted Version
-You can access the live version of the app [here](https://pizza-order-calculator-xi.vercel.app/).
+You can access the live version of the app [here](https://maketodos.vercel.app/).
 
 ## Author
 Zaheer Khan <br>
